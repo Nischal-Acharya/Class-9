@@ -48,9 +48,3 @@ A creative project where you can learn about text editing, formatting, and more 
 - `wordpad_project.docx`
 
 ---
-
-## 🚀 How to Use
-
-1. Clone this repository using:
-   ```bash
-   git clone https://github.com/your-repo-name.git
