@@ -5,10 +5,10 @@ Welcome to my collection of projects and resources from Class 9! Below, you’ll
 ## 📚 Contents
 
 - [C Programming](https://github.com/Nischal-Acharya/Class-9/tree/main/C%20programming)
-- [Computer Fundamentals](#computer-fundamentals)
-- [Fundamental of Digital System](#fundamental-of-digital-system)
-- [Web Page Development](#web-page-development)
-- [Wordpad Project](#wordpad-project)
+- [Computer Fundamentals](https://github.com/Nischal-Acharya/Class-9/tree/main/Computer%20Fundamental)
+- [Fundamental of Digital System](https://github.com/Nischal-Acharya/Class-9/tree/main/Fundamental_of_Digital_System)
+- [Web Page Development](https://github.com/Nischal-Acharya/Class-9/tree/main/Web%20Page%20Devlopment)
+- [Wordpad Project](https://github.com/Nischal-Acharya/Class-9/tree/main/wordpad%20project)
 
 ---
 
